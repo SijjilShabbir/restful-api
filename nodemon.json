@@ -1,0 +1,7 @@
+{
+    "env":
+    {
+        "Mongo_ATLAS_PW": "sijjil",
+        "JWT_KEY" : "demoapp "
+    }
+}
